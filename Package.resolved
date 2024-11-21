@@ -1,5 +1,5 @@
 {
-  "originHash" : "139df82584b0c2e40e3c06592b02b670d49373ff25813998dab52d6c9e7c3b7a",
+  "originHash" : "8786a2b913d1530160896a481a51089a44bd8d62f483ea013e542d78be8a796b",
   "pins" : [
     {
       "identity" : "swift-collections",
@@ -13,9 +13,9 @@
     {
       "identity" : "swift-syntax",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apple/swift-syntax.git",
+      "location" : "https://github.com/PreternaturalAI/swift-syntax.git",
       "state" : {
-        "revision" : "0687f71944021d616d34d922343dcef086855920",
+        "revision" : "75494a5cbc5a1bf9f821113e214d517e6333129d",
         "version" : "600.0.1"
       }
     }
